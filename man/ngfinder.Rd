@@ -29,9 +29,10 @@ ngfinder(nomg, number = 2, right = 1, replic = 1000, moments = NULL, distmeth = 
 }
 \references{
      Kelley, M. R. & Wright, D.B. (2010) Obtaining representative nominal groups. 
-     \emph{Behavior Research Methods}.
+     \emph{Behavior Research Methods}, \bold{42}, 36-41.
      \cr Wright, D.B. (2007). Calculating nominal group statistics in collaboration studies.
      \emph{Behavior Research Methods}, \bold{39}, 460-470.
+     \cr http://www2.fiu.edu/~dwright/nomg/index.htm
 }
 \author{Daniel B. Wright, dwright@fiu.edu}
 \examples{
