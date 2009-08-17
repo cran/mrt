@@ -3,18 +3,18 @@
 \alias{mrt}
 \docType{package}
 \title{
-Modern Regression Techniques: Datasets
+Modern Regression Techniques: Datasets and miscellaneous
 }
 \description{
 Datasets and assorted functions for Wright and London's (2009)
-\emph{Modern Regression Techniques Using R}.
+\emph{Modern Regression Techniques Using R} and other materials.
 }
 \details{
 \tabular{ll}{
 Package: \tab modreg\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2009-06-09\cr
+Version: \tab 0.3\cr
+Date: \tab 2009-08-17\cr
 License: \tab Unlimited\cr
 LazyLoad: \tab yes\cr
 }
